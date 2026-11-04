@@ -1,0 +1,23 @@
+{
+  "name": "aeterna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.11.0",
+    "@discordjs/voice": "^0.19.2",
+    "@distube/ytdl-core": "^5.2.0",
+    "@stef-0012/synclyrics": "^2.5.10",
+    "discord.js": "^14.28.0",
+    "dotenv": "^18.0.9",
+    "ffmpeg-static": "^5.2.0",
+    "youtube-sr": "^4.3.12"
+  }
+}

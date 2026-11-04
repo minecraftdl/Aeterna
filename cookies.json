@@ -1,0 +1,23 @@
+[
+  { "name": "PREF", "value": "f6=40000000&tz=UTC&hl=en" },
+  { "name": "__Secure-1PSIDTS", "value": "sidts-CjQBnJZzakch1F4phBZ3Dd7iQXt6P3AAtKOwieRn35w7xx3TLEh3WC59n7tFlK3YORSC-D5xEAA" },
+  { "name": "__Secure-3PSIDTS", "value": "sidts-CjQBnJZzakch1F4phBZ3Dd7iQXt6P3AAtKOwieRn35w7xx3TLEh3WC59n7tFlK3YORSC-D5xEAA" },
+  { "name": "HSID", "value": "AdRJaN9QNc2MLUNtC" },
+  { "name": "SSID", "value": "ArqIwpS54Y5jENbUL" },
+  { "name": "APISID", "value": "uTLHeTJrhsGlfTci/AWTB3fdpdaFjUgA8Z" },
+  { "name": "SAPISID", "value": "TkKWcJ127cKQ9iCG/AihD98tvplQB99-EH" },
+  { "name": "__Secure-1PAPISID", "value": "TkKWcJ127cKQ9iCG/AihD98tvplQB99-EH" },
+  { "name": "__Secure-3PAPISID", "value": "TkKWcJ127cKQ9iCG/AihD98tvplQB99-EH" },
+  { "name": "SID", "value": "g.a000EQkMVRX9ozVW6duatS0Ti2aGNnRrpdIDFtBMnsbBo5Qq0Y3KLQG9VzlQ_9cd-MB-A2RgdgACgYKARESARASFQHGX2MieG91gb6-N9ApKa29Dtx2hxoVAUF8yKpLOFy1OkVOXX6njb1Y0l860076" },
+  { "name": "__Secure-1PSID", "value": "g.a000EQkMVRX9ozVW6duatS0Ti2aGNnRrpdIDFtBMnsbBo5Qq0Y3Krs8PDLZJbxLcMQDnYkN6YQACgYKAZoSARASFQHGX2MiN2t2NdCpiT8NoLALXbEFlhoVAUF8yKrEq4wWhQ2NJA3urINa4vCe0076" },
+  { "name": "__Secure-3PSID", "value": "g.a000EQkMVRX9ozVW6duatS0Ti2aGNnRrpdIDFtBMnsbBo5Qq0Y3KMYe95uumXsQgJur3aOViywACgYKAScSARASFQHGX2MivzqauByFGTANRyavQ3HVNxoVAUF8yKpbI84uO_w7sn6RZYHkU7oI0076" },
+  { "name": "LOGIN_INFO", "value": "AFmmF2swRgIhAIiCk0rS-8CSVVXc2Nl052_AW23B0gFHSvKI_w0xZQbfAiEAynh5gWRCRjfClWrcAFDFaNAp77WuENmTfl2kB494HCg:QUQ3MjNmeUFOMzBPTnEtdE9DSzU2VHE2WjA3NEhVLUt2LXlCY2tfTkwxRW9KTWVwY0hjVE9UTEZiYTdrZGdobHNRVG4zT2p0NlZjcEd5RlZoVzk4WDFUaXJRcnRab0lXU2QwdDZiM01iUjZWRTRTMkxQZlgxVmE4dWFKdXFCUVdoSjQzdDF5VHRzYnV2M3FtT194aWt3SmdFNl8xQzU0TS1R" },
+  { "name": "SIDCC", "value": "APD_SKED8Wpa83YmUouhnh2VCIzA8GOwkFEBIww27vw8fkcdnVFLD2TILCnnA1kOqbvgL_nX" },
+  { "name": "__Secure-1PSIDCC", "value": "APD_SKE7NP87SFmVZAP_KVGEzYxkwTSFObNbm2VV1_UOyJ5T7kYOVIr48_qfz5k3T2QJRzwz" },
+  { "name": "__Secure-3PSIDCC", "value": "APD_SKHAQGrsFBZM-5sMgvAPmmquzu6IdDlXDA8bMIAZukSo7IrNFf6b9SfVIGkNWGaqQHJX9Q" },
+  { "name": "__Secure-YNID", "value": "CuwBCAUSngEBDB6PDCRFdYeLHOkHmzfluiHnF00MEJ252TeHdW5tiI_DrWPeXbMJWvz7513ezPRIO9PxXBYn2B9JjPeOEmB_Nv_boiiUxs-iKRyMhlHthovRqVgYFMfj79DpWq0H-eBgXcMUEaHfDh0SS2tju-L4WnnVy-caVi3kkPVexAEHfLDFffw32agEDfl2O4OFdDaESpJqE_qamLcMDiHehigFMkUBHFj1aoyG8uv1NX6jKJdRNrjuHwHCirg4TSVxmdZ6neKVjaNI-u9ZGnCyAPUj3u1eGt8lxcHPKwtg_1YJFt421fbxdgQ" },
+  { "name": "YSC", "value": "DmEUl6G4CTY" },
+  { "name": "VISITOR_INFO1_LIVE", "value": "-2uXoVGGILI" },
+  { "name": "VISITOR_PRIVACY_METADATA", "value": "CgJJRBIEGgAgQA%3D%3D" },
+  { "name": "__Secure-ROLLOUT_TOKEN", "value": "CJqq0frGg4elvAEQ0KCN1aPmlwMY4evQk-vrlwM%3D" }
+]
